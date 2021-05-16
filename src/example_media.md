@@ -7,7 +7,20 @@ so so mi la so，re mi re，do la do
 
 ssss
 
+
+add plugins in book.json
+```
+{
+  "plugins": ["mp3-player", 
+			  "diy", 
+			  "audio_image"]
+}
+```
+
+```
 {% aimg %}images/ttt.jpg,images/1.mp3{% endaimg %}
+```
+
 
 ```mp3
 [
@@ -20,9 +33,9 @@ ssss
 ```
 
 
-
+```
 {iframe}(https://youtu.be/pN1AJmwqxUY)
 
-
+```
 
 
