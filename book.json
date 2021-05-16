@@ -1,0 +1,5 @@
+{
+  "plugins": ["mp3-player", 
+			  "diy", 
+			  "audio_image"]
+}
